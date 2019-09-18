@@ -18,3 +18,5 @@
 - Run the project as a Spring boot App
 
 - Your web app will be accessible at "http://localhost:8080/demo"
+
+- Update: Integrated Jenkins.
